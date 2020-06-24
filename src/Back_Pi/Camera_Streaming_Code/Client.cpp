@@ -1,5 +1,7 @@
-/*
- *  Modified To Be Up to Date with latest version of OpenCV by Ridge Ross
+/* It is recommended to use built-in pi functionality for the camera to send a camera stream; however original requirements required for it to be done via this.
+ * Modified To Be Up to Date with latest version of OpenCV and compatible with our implementation by Ridge Ross
+ * 
+ *   Modified from: https://github.com/chenxiaoqino/udp-image-streaming
  *
  *   This program is free software; you can redistribute it and/or modify
  *   it under the terms of the GNU General Public License as published by
